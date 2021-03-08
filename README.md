@@ -1,2 +1,2 @@
 # ezpt
-web platform
+web platform for ezpt
